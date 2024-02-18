@@ -1,0 +1,80 @@
+
+#playermessage {
+    padding: 10px;
+    margin-top: 20px;
+    border-radius: 5px;
+    font-size: 18px;
+    text-align: center;
+}
+
+
+
+#resetbtn {
+    margin-top: 20px;
+    font-size: 18px;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    background-color: #dc3545;
+    color: #fff;
+    cursor: pointer;
+}
+
+#resetbtn:hover {
+    background-color: #c82333;
+}
+
+
+
+
+#submit {
+    margin-top: 25px;
+    margin-left: 150px;
+    font-size: 18px;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    background-color: #007bff;
+    color: #fff;
+    cursor: pointer;
+    display: block;
+}
+
+#submit:hover {
+    background-color: #0056b3;
+
+}
+
+#userinput {
+    margin-top: 20px;
+    padding: 10px;
+    font-size: 16px;
+    border: 2px solid #ccc;
+    border-radius: 5px;
+    width: 223px;
+}
+
+#userinput:focus {
+    outline: none;
+    border-color: #007bff;
+   
+}
+
+
+
+
+h1 {
+    margin-top: 20px;
+   
+    text-align: center;
+}
+
+.container {
+    background-color: #dae5f1;
+    width: 70%;
+}
+
+body {
+    background-color: rgb(116, 56, 56);
+    text-align: center;
+}
